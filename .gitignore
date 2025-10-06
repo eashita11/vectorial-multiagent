@@ -1,0 +1,21 @@
+# env / caches / artifacts
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.cache/
+
+# data that should be rebuilt or downloaded
+data/processed/cache/
+data/processed/personas/*/*.faiss
+data/processed/personas/*/*.npy
+data/processed/personas/*/*.npz
+data/processed/personas/*/*.jsonl.tmp
+
+# local notebooks / scratch
+*.ipynb_checkpoints
+
+# OS noise
+.DS_Store
+Thumbs.db
