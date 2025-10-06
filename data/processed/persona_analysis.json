@@ -1,0 +1,91 @@
+{
+  "k": 3,
+  "clusters": {
+    "0": {
+      "n_chars": 1600,
+      "example_chars": [
+        "\"\"BRILL\"\"",
+        "\"\"DOCTOR\"\"",
+        "\"\"ILIA\"\"",
+        "1/16TH BLACK",
+        "12-YEAR-OLD DANNY"
+      ],
+      "top_terms": [
+        "don",
+        "know",
+        "just",
+        "ll",
+        "got",
+        "like",
+        "ve",
+        "want",
+        "think",
+        "going",
+        "did",
+        "right",
+        "man",
+        "time",
+        "come"
+      ]
+    },
+    "1": {
+      "n_chars": 2263,
+      "example_chars": [
+        "\"\"SCHOOL-MARM\"\"",
+        "\"\"V\"\"",
+        "1ST MAN",
+        "1ST REPORTER",
+        "2ND DEMON"
+      ],
+      "top_terms": [
+        "don",
+        "know",
+        "ll",
+        "like",
+        "just",
+        "ve",
+        "want",
+        "got",
+        "think",
+        "right",
+        "good",
+        "going",
+        "oh",
+        "did",
+        "yes"
+      ]
+    },
+    "2": {
+      "n_chars": 537,
+      "example_chars": [
+        "AARON",
+        "ACE",
+        "ADAM",
+        "ADDISON",
+        "ADELE"
+      ],
+      "top_terms": [
+        "don",
+        "know",
+        "just",
+        "like",
+        "ll",
+        "want",
+        "ve",
+        "got",
+        "think",
+        "right",
+        "going",
+        "did",
+        "oh",
+        "tell",
+        "good"
+      ]
+    }
+  },
+  "mapping": {
+    "0": "commander",
+    "1": "rationalist",
+    "2": "dramatist"
+  }
+}
