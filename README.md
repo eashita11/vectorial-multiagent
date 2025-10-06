@@ -19,7 +19,7 @@ The three personas were designed from patterns discovered in movie dialogues usi
 
 ### Data Source
 - **Dataset:** [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)  
-- Contains extracted dialogues from films (`data/raw/movie_data`)  
+- Contains extracted dialogues from films
 - Each line includes the **character**, **movie**, and **dialogue text**
 
   
